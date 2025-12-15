@@ -13,38 +13,38 @@ This document contains proof of all the important screenshots of including setup
 
 ---
 
-## **2. Clone Repository**
+## **2. Install k3s**
+
+
+![](4.PNG)
+
+---
+
+
+## **3. Verify cluster**
+
+![](5.PNG)
+
+---
+
+
+## **4. Allow kubectl without sudo**
 
 
 ![](6.PNG)
 
 ---
 
-
-## **3. Setup Docker**
-
-![](8.PNG)
-
----
+## **5. Verify**
 
 
-## **4. Verify Docker is running**
-
-
-![](9.PNG)
-
----
-
-## **5. Build Docker Image**
-
-
-![](10.PNG)
+![](7.PNG)
 
 ---
 
 
-## **6. Run container, verify and access locally**
-
+## **6. Kubernetes Manifests**
+================================
 
 ![](12.PNG)
 
