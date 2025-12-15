@@ -1,0 +1,18 @@
+NAME                        READY   STATUS    RESTARTS   AGE
+demo-app-745644f6c9-5666k   1/1     Running   0          2m
+demo-app-745644f6c9-jnwql   1/1     Running   0          111s
+demo-app-745644f6c9-tqzjp   1/1     Running   0          113s
+NAME           TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+demo-service   NodePort    10.43.245.208   <none>        80:30007/TCP   8m38s
+kubernetes     ClusterIP   10.43.0.1       <none>        443/TCP        46m
+NAME                        READY   STATUS    RESTARTS   AGE
+demo-app-745644f6c9-bc6js   1/1     Running   0          39m
+demo-app-745644f6c9-c9zq4   1/1     Running   0          39m
+demo-app-745644f6c9-jnfms   1/1     Running   0          39m
+NAME       READY   UP-TO-DATE   AVAILABLE   AGE
+demo-app   3/3     3            3           77m
+NAME           TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+demo-service   NodePort    10.43.245.208   <none>        80:30007/TCP   78m
+kubernetes     ClusterIP   10.43.0.1       <none>        443/TCP        116m
+~
+~
