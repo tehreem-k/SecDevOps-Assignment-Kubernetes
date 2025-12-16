@@ -1,7 +1,7 @@
 
-# Kubernetes Demo App – GitHub Ready Submission
+# Kubernetes Demo App
 
-This repository demonstrates deploying and managing a **containerized Spring Boot application** on Kubernetes using **k3s**. It covers core Kubernetes objects, scaling, rolling updates, rollback, configuration management, and troubleshooting.
+This repository demonstrates deploying and managing a **containerized Spring Boot application** on Kubernetes using **k3s**. It covers core Kubernetes objects, scaling, rolling updates, rollback and troubleshooting.
 
 ----------
 
@@ -198,3 +198,4 @@ Pods moved to `Running` state and application became accessible.
 ----------
 
 ✅ This submission demonstrates Kubernetes deployment, scaling, configuration, rollout/rollback, and troubleshooting following best practices.
+
