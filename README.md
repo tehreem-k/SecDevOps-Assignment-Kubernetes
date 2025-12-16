@@ -19,9 +19,8 @@ This repository demonstrates deploying and managing a **containerized Spring Boo
 │   ├── service.yaml
 │   ├── configmap.yaml
 │   ├── secret.yaml
-├── cluster-setup.md
-├── README.md
 ├── screenshot/
+├── README.md
 └── deployment-logs.txt
 ```
 
@@ -198,4 +197,5 @@ Pods moved to `Running` state and application became accessible.
 ----------
 
 ✅ This submission demonstrates Kubernetes deployment, scaling, configuration, rollout/rollback, and troubleshooting following best practices.
+
 
